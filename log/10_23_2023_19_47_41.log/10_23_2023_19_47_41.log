@@ -1,0 +1,7 @@
+[2023-10-23 19:47:43,400] 225 werkzeug -WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2023-10-23 19:47:43,400] 225 werkzeug -INFO  * Running on http://192.168.1.6:8080/ (Press CTRL+C to quit)
+[2023-10-23 19:48:28,353] 225 werkzeug -INFO 127.0.0.1 - - [23/Oct/2023 19:48:28] "GET / HTTP/1.1" 200 -
+[2023-10-23 19:48:29,616] 225 werkzeug -INFO 127.0.0.1 - - [23/Oct/2023 19:48:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-10-23 19:49:17,722] 225 werkzeug -INFO 127.0.0.1 - - [23/Oct/2023 19:49:17] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2023-10-23 19:50:44,359] 225 werkzeug -INFO 127.0.0.1 - - [23/Oct/2023 19:50:44] "GET /predict HTTP/1.1" 200 -
